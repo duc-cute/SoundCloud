@@ -49,6 +49,7 @@ const MainSlider = () => {
           border: "1px solid #e5e5e5",
           minWidth: "32px",
           color: "#333",
+          backgroundColor: "#fff",
           "&:hover": {
             borderColor: "#f50",
             color: "#f50",
